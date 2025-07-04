@@ -1,0 +1,1 @@
+select id, name, sueldo from persona
